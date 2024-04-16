@@ -1,24 +1,27 @@
-#### These procedure steps will be followed on the simulator
+### Procedure
 
-1. The simulation window shows front, top view and free-body diagram of the Hartnell governor.<br>
+<div style="text-align:left">
+  Click on the Simulation icon    <img src="images/simulation.png" alt="Alt text" style="height:80px; width:80px;">  to view the simulation screen. 
 
-2. Speed control and mass control slider is given in variables tab, in the controls tab two checkboxes are given for displaying free-body diagram at **Minimum Position** and **Maximum Position** and a button called **Go to Experiment** opens the experiment page.<br>
-   ![alt text](images/p1.jpg "Parts")<br>
+   ![Alt text](images/procedure_1a.png)
+   
+   In order to view the variable section click on the Variable icon <img src="images/var1.png" alt="Alt text" style="height:80px; width:80px;">.
 
-3. Moving the slider knob to the right, changes the rotational speed from 365 to 400 rpm. Moving the slider knob to the right, changes the mass from 1 to 6 kg.<br>
-   ![alt text](images/p2.jpg "Parts")<br>
+   ![Alt text](images/var2.png)
 
-4. When **Maximum Position** checkbox is checked, a free body diagram of the maximum position will appear on the simulation screen. <br>
-   ![alt text](images/p3.jpg "Parts")<br>
+To view the control section, click on the Controls icon <img src="images/controls.png" alt="Alt text" style="height:80px; width:80px;">.
 
-5. For the experiments select **Go to Experiment** in the control panel <br>
-   ![alt text](images/p4.jpg "Parts")<br>
+   ![Alt text](images/controlStartBtn.png)
 
-6. On the experiment page of the simulator, the user can choose between calculating and identifying the parts of the hartnell governor. The control panel can be used to start the experiment or to go back to the simulator.<br>
-   ![alt text](images/p5.jpg "Parts")<br>
+ After selecting the free body diagram, click on the "Go to Experiment" button in the control section.
 
-7. In the calculation experiment, constant variables, minimum and maximum position free body diagram (can be selected from the control tab) is given for the calculation of the stiffness of spring, radius of rotation, and lift of sleeve. User can verify the calculation in the check box. User can use the **Reset Experiment** in the control panel to reset the experiment for new calculation. For going back to choose the experiment **Exit Experiment** button can be used in control panel.<br>
-   ![alt text](images/p6.jpg "Parts")<br>
+   ![Alt text](images/controlStartBtn.png)
+  
+  Choose one of the experiment and then click on the start button in the control section to proceed with it. 
+   ![Alt text](images/choose1.png) 
 
-8. In the identify parts of the governor experiment, a Hartnell governor setup in the middle of the simulation screen, different parts of the governor have the dropdown box where user can choose the part name and verify the same.<br>
-   ![alt text](images/p7.jpg "Parts")<br>
+ Click on the "Go to simulator" button <img src="images/sim1.png" style="height:40px; width:100px;"> to view the simulator again. 
+  ![Alt text](images/procedure_1a.png)
+ 
+
+
